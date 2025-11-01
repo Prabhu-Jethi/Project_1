@@ -28,16 +28,16 @@
 # How to run the project
 
 ### 1. Clone the repository
- #### -- git clone https://github.com/your-username/your-repo-name.git
+ #### - git clone https://github.com/your-username/your-repo-name.git
 
 ### 2. Navigate to project folder
- #### -- cd DATAPRIVACY_IN_IOT
+ #### - cd DATAPRIVACY_IN_IOT
 
 ### 3. Install required libraries
- #### -- pip install -r requirements.txt
+ #### - pip install -r requirements.txt
 
 ### 4. Run notebook
- #### -- jupyter notebook main.ipynb
+ #### - jupyter notebook main.ipynb
 
 
 # License
