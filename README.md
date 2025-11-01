@@ -25,7 +25,7 @@
 - Keras/Tensorflow - Model creation
 
 
-# How to run the project
+## How to run the project
 
 ### 1. Clone the repository
  #### git clone https://github.com/your-username/your-repo-name.git
@@ -40,6 +40,6 @@
  #### jupyter notebook main.ipynb
 
 
-# License
+## License
 
 This project is licensed under the MIT License – free to use and modify with attribution.
