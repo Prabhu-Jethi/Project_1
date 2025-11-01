@@ -24,16 +24,19 @@
 
 - Keras/Tensorflow - Model creation
 
-## 1. Clone the repository
+
+# How to run the project
+
+### 1. Clone the repository
 git clone https://github.com/your-username/your-repo-name.git
 
-## 2. Move into project folder
+### 2. Navigate to project folder
 cd DATAPRIVACY_IN_IOT
 
-## 3. Install dependencies (if using requirements.txt)
+### 3. Install required libraries
 pip install -r requirements.txt
 
-## 4. Open the Jupyter Notebook
+### 4. Run notebook
 jupyter notebook main.ipynb
 
 
