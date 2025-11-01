@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+cryptography
+scikit-learn
+tensorflow
+keras
+faker
+hashlib
